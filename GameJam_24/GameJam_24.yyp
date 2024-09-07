@@ -24,7 +24,6 @@
     {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Backgrounds","folderPath":"folders/Sprites/Backgrounds.yy","name":"Backgrounds","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Sky","folderPath":"folders/Sprites/Backgrounds/Sky.yy","name":"Sky","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -37,6 +36,10 @@
   "name":"GameJam_24",
   "resources":[
     {"id":{"name":"MainLevel","path":"rooms/MainLevel/MainLevel.yy",},},
+    {"id":{"name":"Back_trees_01","path":"sprites/Back_trees_01/Back_trees_01.yy",},},
+    {"id":{"name":"Back_trees_02","path":"sprites/Back_trees_02/Back_trees_02.yy",},},
+    {"id":{"name":"cloud_big","path":"sprites/cloud_big/cloud_big.yy",},},
+    {"id":{"name":"cloud_small","path":"sprites/cloud_small/cloud_small.yy",},},
     {"id":{"name":"Sky","path":"sprites/Sky/Sky.yy",},},
   ],
   "resourceType":"GMProject",
